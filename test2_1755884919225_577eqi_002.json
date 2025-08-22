@@ -1,0 +1,187 @@
+{
+  "id": "1755884919225_577eqi_002",
+  "name": "test2",
+  "steps": [
+    {
+      "id": "17558848608600.18712950279799345",
+      "title": "1.png",
+      "description": "Step 1: 1.png",
+      "timestamp": 0,
+      "annotations": [],
+      "screenshot": "stored_locally",
+      "type": "image",
+      "hotspots": [
+        {
+          "id": "1755884882326",
+          "x": 76.36022514071294,
+          "y": 2.5015634771732334,
+          "type": "click",
+          "animation": "pulse",
+          "size": "medium",
+          "color": "#3b82f6",
+          "description": "Click hotspot at 76, 3",
+          "delay": 0,
+          "duration": 1000,
+          "tooltipBgColor": "#1f2937",
+          "tooltipTextColor": "#ffffff",
+          "tooltipSize": "medium"
+        }
+      ],
+      "zoomRect": {
+        "x": 0,
+        "y": 0,
+        "width": 100,
+        "height": 100,
+        "aspectRatio": 1.7777777777777777
+      }
+    },
+    {
+      "id": "17558848609130.3602939508243038",
+      "title": "2.png",
+      "description": "Step 1: 2.png",
+      "timestamp": 0,
+      "annotations": [],
+      "screenshot": "stored_locally",
+      "type": "image",
+      "hotspots": [
+        {
+          "id": "1755884888707",
+          "x": 67.82363977485929,
+          "y": 13.008130081300814,
+          "type": "click",
+          "animation": "pulse",
+          "size": "medium",
+          "color": "#3b82f6",
+          "description": "Click hotspot at 68, 13",
+          "delay": 0,
+          "duration": 1000,
+          "tooltipBgColor": "#1f2937",
+          "tooltipTextColor": "#ffffff",
+          "tooltipSize": "medium"
+        }
+      ],
+      "zoomRect": {
+        "x": 0,
+        "y": 0,
+        "width": 100,
+        "height": 100,
+        "aspectRatio": 1.7777777777777777
+      },
+      "zoomArea": {
+        "x": 24.31988742964353,
+        "y": 0,
+        "width": 75,
+        "height": 75
+      }
+    },
+    {
+      "id": "17558848609940.23470744799703824",
+      "title": "3.png",
+      "description": "Step 1: 3.png",
+      "timestamp": 0,
+      "annotations": [],
+      "screenshot": "stored_locally",
+      "type": "image",
+      "hotspots": [
+        {
+          "id": "1755884905721",
+          "x": 48.78048780487805,
+          "y": 18.678340629560143,
+          "type": "click",
+          "animation": "pulse",
+          "size": "medium",
+          "color": "#3b82f6",
+          "description": "Click hotspot at 49, 19",
+          "delay": 0,
+          "duration": 1000,
+          "tooltipBgColor": "#1f2937",
+          "tooltipTextColor": "#ffffff",
+          "tooltipSize": "medium"
+        }
+      ],
+      "zoomRect": {
+        "x": 0,
+        "y": 0,
+        "width": 100,
+        "height": 100,
+        "aspectRatio": 1.7777777777777777
+      }
+    },
+    {
+      "id": "17558848645470.4502311269670183",
+      "title": "3.png",
+      "description": "Step 4: 3.png",
+      "timestamp": 9000,
+      "annotations": [],
+      "screenshot": "stored_locally",
+      "type": "image",
+      "hotspots": [
+        {
+          "id": "1755884914423",
+          "x": 65.38461538461539,
+          "y": 31.686470710860952,
+          "type": "click",
+          "animation": "pulse",
+          "size": "medium",
+          "color": "#3b82f6",
+          "description": "Click hotspot at 65, 32",
+          "delay": 0,
+          "duration": 1000,
+          "tooltipBgColor": "#1f2937",
+          "tooltipTextColor": "#ffffff",
+          "tooltipSize": "medium"
+        }
+      ],
+      "zoomRect": {
+        "x": 0,
+        "y": 0,
+        "width": 100,
+        "height": 100,
+        "aspectRatio": 1.7777777777777777
+      }
+    }
+  ],
+  "uploadedMedia": [
+    {
+      "id": "17558848608600.9871333639087847",
+      "url": "stored_locally",
+      "title": "1.png",
+      "type": "image"
+    },
+    {
+      "id": "17558848609130.7657109607657033",
+      "url": "stored_locally",
+      "title": "2.png",
+      "type": "image"
+    },
+    {
+      "id": "17558848609940.6505528980405103",
+      "url": "stored_locally",
+      "title": "3.png",
+      "type": "image"
+    },
+    {
+      "id": "17558848645470.13154467716924334",
+      "url": "stored_locally",
+      "title": "3.png",
+      "type": "image"
+    }
+  ],
+  "aiFeatures": {},
+  "exportFormat": "mp4",
+  "lastModified": "2025-08-22T17:48:39.225Z",
+  "version": "1.0",
+  "hostId": "tutorial_1755884919225_577eqi_002_test2",
+  "filename": "test2_2025-08-22_1755884919278.json",
+  "hybridStorage": {
+    "isHybrid": true,
+    "imageCount": 4,
+    "syncedAt": "2025-08-22T17:48:39.313Z"
+  },
+  "github": {
+    "savedAt": "2025-08-22T17:48:39.313Z",
+    "version": "1755884919313",
+    "repository": "lunaaziz/keyword-tool-editor",
+    "branch": "main"
+  }
+}
