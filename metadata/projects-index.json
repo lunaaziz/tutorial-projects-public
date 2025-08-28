@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-28T17:07:12.657Z",
+  "lastUpdated": "2025-08-28T17:07:28.555Z",
   "projects": [
     {
       "id": "meva0he6jp401",
@@ -12,13 +12,7 @@
       "name": "test2",
       "filename": "test2_1755884919225_577eqi_002.json",
       "lastModified": "2025-08-22T17:48:39.225Z"
-    },
-    {
-      "id": "1755866831935_vmyvps_001",
-      "name": "test",
-      "filename": "test_1755866831935_vmyvps_001.json",
-      "lastModified": "2025-08-22T12:47:11.935Z"
     }
   ],
-  "totalProjects": 3
+  "totalProjects": 2
 }
