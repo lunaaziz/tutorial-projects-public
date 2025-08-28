@@ -4,12 +4,13 @@
   "steps": [
     {
       "id": "17563778371520.8839445939291625",
-      "title": "1.png",
-      "description": "Step 1: 1.png",
+      "title": "Test Step with Image",
+      "description": "This is a test step with an embedded image",
       "timestamp": 0,
       "annotations": [],
-      "screenshot": "stored_locally",
+      "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChAI9jU77+QAAAABJRU5ErkJggg==",
       "type": "image",
+      "mediaUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChAI9jU77+QAAAABJRU5ErkJggg==",
       "hotspots": [
         {
           "id": "1756377879850",
@@ -33,41 +34,18 @@
         "width": 100,
         "height": 100,
         "aspectRatio": 1.7777777777777777
-      },
-      "localImageId": "meva0he6jp401_image_0_1756377882931",
-      "mediaUrl": "stored_locally",
-      "imageUrl": "stored_locally"
+      }
     }
   ],
   "uploadedMedia": [
     {
-      "id": "meva0he6jp401_image_0_1756377870904",
-      "title": "1.png",
+      "id": "mevjpwbfji6o1_image_0_1756377870904",
+      "title": "Test Image",
       "type": "image",
-      "url": "stored_locally"
-    },
-    {
-      "id": "meva0he6jp401_image_0_1756377882931",
-      "title": "1.png",
-      "type": "image",
-      "url": "stored_locally"
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChAI9jU77+QAAAABJRU5ErkJggg=="
     }
   ],
-  "aiFeatures": {},
-  "exportFormat": "mp4",
-  "lastModified": "2025-08-28T10:52:09.411Z",
-  "version": "1.0",
-  "hostId": "tutorial_meva0he6jp401_test4",
-  "filename": "test4_2025-08-28_1756378329424.json",
-  "hybridStorage": {
-    "isHybrid": true,
-    "imageCount": 2,
-    "syncedAt": "2025-08-28T10:52:09.476Z"
-  },
-  "github": {
-    "savedAt": "2025-08-28T10:52:09.476Z",
-    "version": "1756378329476",
-    "repository": "lunaaziz/keyword-tool-editor",
-    "branch": "main"
-  }
+  "lastModified": "2025-01-09T20:00:00.000Z",
+  "publishedAt": "2025-01-09T20:00:00.000Z",
+  "version": "1.0"
 }
