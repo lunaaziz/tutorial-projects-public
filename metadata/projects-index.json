@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-28T18:07:22.390Z",
+  "lastUpdated": "2025-08-28T18:07:36.705Z",
   "projects": [
     {
       "id": "meva0he6jp401",
@@ -14,14 +14,6 @@
       "name": "test1",
       "filename": "mevo0bkz707d1.json",
       "lastModified": "2025-08-28T17:15:54.031Z",
-      "stepsCount": 3,
-      "uploadedMediaCount": 3
-    },
-    {
-      "id": "mevo940xl8bq1",
-      "name": "New Tutorial Project",
-      "filename": "mevo940xl8bq1.json",
-      "lastModified": "2025-08-28T17:22:39.063Z",
       "stepsCount": 3,
       "uploadedMediaCount": 3
     },
@@ -42,5 +34,5 @@
       "uploadedMediaCount": 3
     }
   ],
-  "totalProjects": 5
+  "totalProjects": 4
 }
