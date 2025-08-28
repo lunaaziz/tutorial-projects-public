@@ -1,0 +1,73 @@
+{
+  "id": "mevjpwbfji6o1",
+  "name": "test4",
+  "steps": [
+    {
+      "id": "17563778371520.8839445939291625",
+      "title": "1.png",
+      "description": "Step 1: 1.png",
+      "timestamp": 0,
+      "annotations": [],
+      "screenshot": "stored_locally",
+      "type": "image",
+      "hotspots": [
+        {
+          "id": "1756377879850",
+          "x": 75.79737335834896,
+          "y": 3.335417969564311,
+          "type": "click",
+          "animation": "pulse",
+          "size": "medium",
+          "color": "#3b82f6",
+          "description": "Click hotspot at 76, 3",
+          "delay": 0,
+          "duration": 1000,
+          "tooltipBgColor": "#1f2937",
+          "tooltipTextColor": "#ffffff",
+          "tooltipSize": "medium"
+        }
+      ],
+      "zoomRect": {
+        "x": 0,
+        "y": 0,
+        "width": 100,
+        "height": 100,
+        "aspectRatio": 1.7777777777777777
+      },
+      "localImageId": "meva0he6jp401_image_0_1756377882931",
+      "mediaUrl": "stored_locally",
+      "imageUrl": "stored_locally"
+    }
+  ],
+  "uploadedMedia": [
+    {
+      "id": "meva0he6jp401_image_0_1756377870904",
+      "title": "1.png",
+      "type": "image",
+      "url": "stored_locally"
+    },
+    {
+      "id": "meva0he6jp401_image_0_1756377882931",
+      "title": "1.png",
+      "type": "image",
+      "url": "stored_locally"
+    }
+  ],
+  "aiFeatures": {},
+  "exportFormat": "mp4",
+  "lastModified": "2025-08-28T10:52:09.411Z",
+  "version": "1.0",
+  "hostId": "tutorial_meva0he6jp401_test4",
+  "filename": "test4_2025-08-28_1756378329424.json",
+  "hybridStorage": {
+    "isHybrid": true,
+    "imageCount": 2,
+    "syncedAt": "2025-08-28T10:52:09.476Z"
+  },
+  "github": {
+    "savedAt": "2025-08-28T10:52:09.476Z",
+    "version": "1756378329476",
+    "repository": "lunaaziz/keyword-tool-editor",
+    "branch": "main"
+  }
+}
