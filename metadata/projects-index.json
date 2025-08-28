@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-28T18:07:52.626Z",
+  "lastUpdated": "2025-08-28T18:08:14.273Z",
   "projects": [
     {
       "id": "meva0he6jp401",
@@ -16,15 +16,7 @@
       "lastModified": "2025-08-28T17:15:54.031Z",
       "stepsCount": 3,
       "uploadedMediaCount": 3
-    },
-    {
-      "id": "mevowlf7xust1",
-      "name": "New Tutorial Project",
-      "filename": "mevowlf7xust1.json",
-      "lastModified": "2025-08-28T17:42:04.561Z",
-      "stepsCount": 3,
-      "uploadedMediaCount": 3
     }
   ],
-  "totalProjects": 3
+  "totalProjects": 2
 }
